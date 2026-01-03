@@ -1,4 +1,4 @@
-# Qudratak - General Aptitude Test Preparation 📱
+# Qudratak - Qiyas Qudrat Exam Practice App 📱
 
 ### 🚀 Overview
 **Qudratak** is a high-performance React Native application designed to simulate the real General Aptitude Test (Qudrat). It features a sophisticated exam generation algorithm, a modern responsive UI, and full Arabic (RTL) support.
